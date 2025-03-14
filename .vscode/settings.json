@@ -1,0 +1,5 @@
+{
+    "go.toolsEnvVars": {
+        "GOENV": "D:\\env\\golang\\bin"
+    }
+}
